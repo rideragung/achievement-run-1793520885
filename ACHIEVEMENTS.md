@@ -1,4 +1,5 @@
 # GitHub Achievements
 - Quickdraw: Done
-- YOLO: In progress
-- Pair Extraordinaire: In progress
+- YOLO: Done
+- Pair Extraordinaire: Done
+- Pull Shark: Done
